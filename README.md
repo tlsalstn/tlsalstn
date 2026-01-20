@@ -8,12 +8,12 @@
   <a href="https://medium.com/@ehsdnjfl1012" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
-## Career (3 Year)
+## Career (5 Year)
 - 2021.07 ~ Present [**TeamO2**](https://teamo2.kr/)([카모아](https://carmore.kr))
 - 2021.02 ~ 2021.07 **BISKIT**
 
 ## Education
-- 2022.02 ~ Present **[한양사이버대학교](https://www.hycu.ac.kr/user/index.do) 컴퓨터공학과**
+- 2022.02 ~ 2025.08 **[한양사이버대학교](https://www.hycu.ac.kr/user/index.do) 컴퓨터공학과**
 - 2018.03 ~ 2021.01 **[대구소프트웨어마이스터고등학교](http://www.dgsw.hs.kr/index.do) 소프트웨어개발과**
 
 ## Skills
